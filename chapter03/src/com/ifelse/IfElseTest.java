@@ -1,4 +1,4 @@
-package com.ifelsetest;/*
+package com.ifelse;/*
 分支結構1: if-else條件判斷結構
 
 1. 格式
